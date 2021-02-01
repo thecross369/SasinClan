@@ -38,8 +38,8 @@ import urllib.request
 from gtts import gTTS
 
 
-
-token = "Nzk0NDU2MzQ1MzYwMjAzNzc2.X-7FIQ.hynbf0yo-OTV75jee4oio-am5kQ" # 아까 메모해 둔 토큰을 입력합니다
+acess_token = os.environ["BOT_TOKEN"]
+token = "acess_token" # 아까 메모해 둔 토큰을 입력합니다
 client = discord.Client() # discord.Client() 같은 긴 단어 대신 client를 사용하겠다는 선언입니다.
 
 
