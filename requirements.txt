@@ -3,7 +3,6 @@ discord
 datetime
 quote
 requests
-os
 CommandNotFound
 logging
 itertools
