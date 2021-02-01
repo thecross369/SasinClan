@@ -1,7 +1,6 @@
 asyncio
 discord
 datetime
-HTTPError
 urlopen
 Request
 BeautifulSoup
