@@ -17,5 +17,4 @@ YoutubeDL
 youtube_dl
 StringIO
 time
-urllib.request
 gTTS
