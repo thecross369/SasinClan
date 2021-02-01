@@ -39,7 +39,7 @@ from gtts import gTTS
 
 
 acess_token = os.environ["BOT_TOKEN"]
-token = "acess_token" # 아까 메모해 둔 토큰을 입력합니다
+client.run(acess_token) # 아까 메모해 둔 토큰을 입력합니다
 client = discord.Client() # discord.Client() 같은 긴 단어 대신 client를 사용하겠다는 선언입니다.
 
 
