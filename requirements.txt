@@ -7,7 +7,7 @@ urllib
 URLError
 HTTPError
 urlopen
-Request, urlopen
+Request
 BeautifulSoup
 quote
 re
