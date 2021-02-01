@@ -1,7 +1,6 @@
 asyncio
 discord
 datetime
-BeautifulSoup
 quote
 re
 warnings
