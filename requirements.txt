@@ -13,7 +13,6 @@ math
 timeout
 partial
 functools
-YoutubeDL
 youtube_dl
 StringIO
 time
