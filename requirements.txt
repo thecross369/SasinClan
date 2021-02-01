@@ -1,35 +1,35 @@
-import asyncio
-import discord
-import datetime
-import threading
-from discord.ext import commands
-import urllib
-from urllib.request import URLError
-from urllib.request import HTTPError
-from urllib.request import urlopen
-from urllib.request import Request, urlopen
-from bs4 import BeautifulSoup
-from urllib.parse import quote
-import re # Regex for youtube link
-import warnings
-import requests
-import unicodedata
-import json
-import os
-from discord.ext.commands import CommandNotFound
-import logging
-import itertools
-import sys
-import traceback
-import random
-import itertools
-import math
-from async_timeout import timeout
-from functools import partial
-import functools
-from youtube_dl import YoutubeDL
-import youtube_dl
-from io import StringIO
-import time
-import urllib.request
-from gtts import gTTS
+asyncio
+discord
+datetime
+threading
+commands
+urllib
+URLError
+HTTPError
+urlopen
+Request
+BeautifulSoup
+quote
+re
+warnings
+requests
+unicodedata
+json
+os
+CommandNotFound
+logging
+itertools
+sys
+traceback
+random
+itertools
+math
+timeout
+partial
+functools
+YoutubeDL
+youtube_dl
+StringIO
+time
+urllib.request
+gTTS
