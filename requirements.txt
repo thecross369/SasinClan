@@ -1,7 +1,6 @@
 asyncio
 discord
 datetime
-urllib
 URLError
 HTTPError
 urlopen
