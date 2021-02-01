@@ -2,7 +2,6 @@ asyncio
 discord
 datetime
 quote
-warnings
 requests
 unicodedata
 json
