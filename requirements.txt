@@ -2,8 +2,8 @@ asyncio
 discord
 datetime
 urlopen
-Request
-BeautifulSoup
+request
+beautifulSoup
 quote
 re
 warnings
@@ -11,7 +11,7 @@ requests
 unicodedata
 json
 os
-CommandNotFound
+commandNotFound
 logging
 itertools
 sys
@@ -22,9 +22,9 @@ math
 timeout
 partial
 functools
-YoutubeDL
+youtubeDL
 youtube_dl
-StringIO
+stringIO
 time
 urllib.request
 gTTS
