@@ -1,7 +1,6 @@
 asyncio
 discord
 datetime
-threading
 commands
 urllib
 URLError
