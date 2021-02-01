@@ -1,13 +1,6 @@
 asyncio
 discord
 datetime
-threading
-commands
-urllib
-URLError
-HTTPError
-urlopen
-Request
 BeautifulSoup
 quote
 re
